@@ -1,7 +1,11 @@
+import Navbar from "./components/organisms/Navbar";
+import HeroSection from "./components/templates/HeroSection";
+
 function App() {
   return (
     <>
-      <h1>App</h1>
+      <Navbar />
+      <HeroSection />
     </>
   );
 }

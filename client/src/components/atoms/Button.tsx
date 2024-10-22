@@ -13,7 +13,6 @@ const Button: React.FC<ButtonProps> = ({ label, classname = "" }) => {
       >
         {label}
       </button>
-      ;
     </div>
   );
 };
