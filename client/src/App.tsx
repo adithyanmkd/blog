@@ -1,11 +1,11 @@
 import Navbar from "./components/organisms/Navbar";
-import HeroSection from "./components/templates/HeroSection";
+import Home from "./components/pages/Home";
 
 function App() {
   return (
     <>
       <Navbar />
-      <HeroSection />
+      <Home />
     </>
   );
 }
