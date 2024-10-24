@@ -18,7 +18,7 @@ const HeroSection = () => {
         </p>
         <Button
           label="Read more"
-          classname="bg-white !text-darkGray text-xs font-bold"
+          classname="bg-white !text-darkGray text-xs font-bold mt-[26px]"
         />
       </div>
       <div className="mt-14 h-[330px] w-[327px]">
